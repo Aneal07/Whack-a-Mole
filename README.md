@@ -32,7 +32,7 @@ You can play the game online by visiting the following link: [Whack-a-Mole Game]
 
 ## Screenshot
 
-![Whack-a-Mole Game Screenshot](screenshot.png)
+![Whack-a-Mole Game Screenshot](Screenshot.jpg)
 
 ## License
 
