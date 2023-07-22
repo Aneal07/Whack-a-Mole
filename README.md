@@ -1,6 +1,7 @@
 # Whack-a-Mole Game
 
 A simple Whack-a-Mole game implemented using HTML, CSS, and JavaScript.
+[Live site](https://aneal07.github.io/Whack-a-Mole/)
 
 ## Game Description
 
